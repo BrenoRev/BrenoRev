@@ -25,7 +25,7 @@
 
  <h2>⚙ <b>GitHub Analytics</b><h2>
     <br>
-    <p align="center">
+    <p align="left">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrenoRev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrenoRev&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
     </p>
