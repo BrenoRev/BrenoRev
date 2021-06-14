@@ -1,8 +1,10 @@
 <h1 align="center">Breno Silva 🔗 JAVA</h1>
 
-<p align="center">🚀 Estudante da Universidade Federal de Pernambuco no curso de Ciência da Computação</p>
+<p align="center"><h3>ㅤㅤㅤ🚀 Estudante da Universidade Federal de Pernambuco no curso de Ciência da Computação</p>
+<h1> </h1>
 
-<img src="https://user-images.githubusercontent.com/84048306/121829926-3ae44380-cc9a-11eb-9083-a04a5f0baf76.gif" min-width="400px" max-width="450px" width="450px" align="right" alt="Computador iuriCode">
+
+<img src="https://user-images.githubusercontent.com/84048306/121829926-3ae44380-cc9a-11eb-9083-a04a5f0baf76.gif" min-width="400px" max-width="550px" width="510px" align="right" >
 
 # CONTATO 
 
@@ -26,11 +28,13 @@
   <img height="43em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  <img height="43em" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>    <img height="43em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </p>
 
-<details open>
-    <summary ><h1>⚙ <b>GitHub Analytics</b><h1> </summary>
+#
+#
+#
+ <h2>⚙ <b>GitHub Analytics</b><h2>
     <br>
     <p align="center">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrenoRev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrenoRev&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
     </p>
-</details>
+
