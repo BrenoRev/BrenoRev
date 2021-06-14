@@ -10,8 +10,8 @@
 
 
 # CONTATO
-<p><a href="(mailto:silvabreno462@gmail.com)"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"></a>
-<p><a href="https://www.linkedin.com/in/breno-silva-a868a5213/"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
+<p><a href="(mailto:silvabreno462@gmail.com)"><img height="30em" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white"></a>
+<p><a href="https://www.linkedin.com/in/breno-silva-a868a5213/"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(mailto:silvabreno462@gmail.com">
   </a>
   
 <p align="left">
