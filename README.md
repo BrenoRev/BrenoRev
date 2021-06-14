@@ -4,9 +4,11 @@
 <h1> </h1>
 
 
-<img src="https://user-images.githubusercontent.com/84048306/121829926-3ae44380-cc9a-11eb-9083-a04a5f0baf76.gif" min-width="400px" max-width="550px" width="510px" align="right" >
+<img src="https://user-images.githubusercontent.com/84048306/121829926-3ae44380-cc9a-11eb-9083-a04a5f0baf76.gif" min-width="400px" max-width="550px" width="450px" align="right" >
 
-# CONTATO 
+#
+
+# CONTATO
 
 <p align="left">
   <a href="#" alt="Gmail">
@@ -30,10 +32,10 @@
 
 #
 #
-#
+
  <h2>⚙ <b>GitHub Analytics</b><h2>
     <br>
-    <p align="center">
+    <p>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrenoRev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrenoRev&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
     </p>
