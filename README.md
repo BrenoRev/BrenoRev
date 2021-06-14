@@ -10,14 +10,11 @@
 
 
 # CONTATO
-<p align="left">
-<a href="(mailto:silvabreno462@gmail.com)"><img height="30em" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(mailto:silvabreno462@gmail.com)"></a>   ﾠ
-<a href="https://www.linkedin.com/in/breno-silva-a868a5213/"><img height="30em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"></a>
-  </p>
-
-
-
-
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/breno-silva-a868a5213/)
+ㅤ
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/brenorevy/) 
+ㅤ
+[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/breno.silva.5011516/)
 
 
 # LINGUAGENS E FRAMEWORK 
