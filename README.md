@@ -4,7 +4,7 @@
 <h1> </h1>
 
 
-<img src="https://user-images.githubusercontent.com/84048306/121829926-3ae44380-cc9a-11eb-9083-a04a5f0baf76.gif" min-width="400px" max-width="550px" width="450px" align="right" >
+<img src="https://user-images.githubusercontent.com/84048306/121829926-3ae44380-cc9a-11eb-9083-a04a5f0baf76.gif" min-width="400px" max-width="400px" width="450px" align="right" >
 
 #
 
@@ -12,13 +12,13 @@
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img height="35em" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(mailto:andressa.workti@gmail.com" /></a>
+  <img height="30em" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(mailto:andressa.workti@gmail.com" /></a>
 
   <a href="#" alt="Linkedin">
-  <img height="35em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-silva99/" /></a>
+  <img height="30em" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-silva99/" /></a>
 
   <a href="#" alt="WhatsApp">
-  <img height="35em" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521980076402"/></a>
+  <img height="30em" src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521980076402"/></a>
 
 </p>
 
@@ -27,7 +27,7 @@
 # LINGUAGENS E FRAMEWORK 
 <p align="left">
 
-  <img height="43em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  <img height="43em" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>    <img height="43em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img height="35em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  <img height="35em" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>    <img height="35em" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   </p>
 
 #
