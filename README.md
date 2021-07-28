@@ -7,12 +7,12 @@
     <summary><b>Um pouco sobre mim (CLIQUE PARA LER)</b></summary>
     <br>
     <p>
-    Me chamo Breno Silva, tenho 19 anos atualmente e no início da pandemia eu decidi que não poderia sair dela sem ao menos conquistar algo, foi ai que eu me dediquei aos estudos, troquei meu vicio de jogos online por vicio nos estudos, consegui, mesmo com todas as adversidades, conquistar minha vaga na universidade federal após 1 ano estudando em média 8/10 horas por dia, tive que largar os estudos de programação para focar 100% nos estudos porque não tive um ensino médio bom, e voltei pra programação logo após conquistar minha vaga na federal.
+    Me chamo Breno Silva, tenho 19 anos atualmente e no início da pandemia eu decidi que não poderia sair dela sem ao menos conquistar algo, foi ai que eu me dediquei aos estudos, troquei meu vicio de jogos online por vicio nos estudos, consegui, mesmo com todas as adversidades, conquistar minha vaga na universidade federal após 1 ano estudando em média 8/10 horas por dia, tive que largar os estudos de programação para focar 100% nos estudos porque não tive um ensino médio bom... e voltei pra programação logo após conquistar minha vaga na universidade.
 
   Sou autodidata, empenhado e em busca de conhecimento.<br>
   </p>
 
-**Seja hoje uma pessoa melhor do que você foi ontem. Estude uma hora por dia, faça exercícios, descubra novos horizontes, faça uma boa ação, seja hoje 1% melhor do que você foi ontem, um passo de cada vez...<br><br>
+Seja hoje uma pessoa melhor do que você foi ontem. Estude uma hora por dia, faça exercícios, descubra novos horizontes, faça uma boa ação, seja hoje 1% melhor do que você foi ontem, um passo de cada vez...<br><br>
 </details>
 
 <h1></h1>
