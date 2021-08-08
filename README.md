@@ -21,8 +21,10 @@ Seja hoje uma pessoa melhor do que vocÃª foi ontem. Estude uma hora por dia, faÃ
 <h1> CONTATO </h1>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/breno-silva-a868a5213/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/brenorevy/) 
-[<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>](mailto:silvabreno462@gmail.com)
+<a href="#" alt="Gmail">
+  <a href="mailto:silvabreno462@gmail.com" alt="Gmail"  style="width: 111px; height:28px">
+  <img style="width: 111px; height:28px" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=(mailto:silvabreno462@gmail.com" /></a>
+    
 <br>
 <br>
 <h1>LINGUAGENS E FRAMEWORK </h1>
