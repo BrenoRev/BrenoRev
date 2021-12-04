@@ -28,7 +28,6 @@ Seja hoje uma pessoa melhor do que vocÃª foi ontem. Estude uma hora por dia, faÃ
 <p style="align:left">
   <img height="37em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>  
   <img height="37em" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
-  <img height="37em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </p>
   
   <h1> Frameworks </h1>
