@@ -35,7 +35,6 @@
   <p>
   <img height="37em" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img height="37em" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img height="37em" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   </p>
   
   <h2>Banco de Dados </h1>
@@ -59,6 +58,6 @@
 <br>
  <h2>⚙ GitHub Analytics<h2>
     <p align="left">
-        <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrenoRev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-        <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrenoRev&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
+        <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrenoRev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+        <img height="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrenoRev&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
     </p>
