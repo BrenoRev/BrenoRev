@@ -1,7 +1,7 @@
-<h2 align="center">Breno Silva 🔗 Full-Stack</h2>
+<h2 align="center">Breno Silva 🔗 Full-Stack </h2> 
 
 <p align="center"><h3>ㅤㅤㅤ🚀 Estudante da Universidade Federal de Pernambuco no curso de Ciência da Computação</p>
-
+<img src="https://komarev.com/ghpvc/?username=brenorev" />
 <br>
 
 
