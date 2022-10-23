@@ -3,6 +3,11 @@
 <p align="center"><h3>ㅤㅤㅤ🚀 Estudante da Universidade Federal de Pernambuco no curso de Ciência da Computação</p>
 <img src="https://komarev.com/ghpvc/?username=brenorev" />
 <br>
+    <p align="left">
+        <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=brenorev&theme=tokyonight&hide_border=false"/>
+        <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrenoRev&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
+    </p>
+<br>
 
 
 <h2> Contato </h1>
@@ -58,9 +63,4 @@
      <br>
     </p>
     
-<br>
- <h2>⚙ GitHub Analytics<h2>
-    <p align="left">
-        <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrenoRev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-        <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrenoRev&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
-    </p>
+
