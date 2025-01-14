@@ -4,7 +4,6 @@
 <img src="https://komarev.com/ghpvc/?username=brenorev" />
 <br>
     <p align="left">
-        <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com/?user=brenorev&theme=tokyonight&hide_border=false"/>
         <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrenoRev&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=false"/>
     </p>
 <br>
